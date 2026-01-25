@@ -174,7 +174,7 @@ function HeroSection() {
             Hello!
           </h1>
           <p className="text-zinc-200 text-lg md:text-xl max-w-2xl mx-auto">
-            I'm Adwait, a Computer Science master's student at USC specializing in data science, with experience in retrieval-augmented generation systems, machine learning models, and production-grade data pipelines.         
+            I'm Adwait, a CS master's student at the University of Southern California specializing in data science, with experience in retrieval-augmented generation systems, machine learning models, and production-grade data pipelines.         
          </p>
         </div>
       </div>
