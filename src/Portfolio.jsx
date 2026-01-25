@@ -29,7 +29,7 @@ const projects = [
     year: "2022-2025",
     description: "Organized one of the largest hackathons in the Capital Region, fostering innovation and collaboration.",
     color: "from-violet-900 to-indigo-900",
-    image: "public/logo_gray.png",
+    image: "/logo_gray.png",
     link: "https://2024.hackrpi.com"
   }
 ];
