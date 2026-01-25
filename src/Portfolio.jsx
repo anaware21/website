@@ -26,9 +26,9 @@ const projects = [
     id: 3,
     title: "HackRPI",
     role: "Vice President & Director of Finance",
-    year: "2022-2025",
-    description: "Organized one of the largest hackathons in the Capital Region, fostering innovation and collaboration.",
-    color: "from-violet-900 to-indigo-900",
+    year: "2022-2024",
+    description: "Led the organizing team for the largest hackathons in the New York Capital Region, fostering innovation and collaboration.",
+    color: "from-emerald-900 to-indigo-900",
     image: "/logo_gray.png",
     link: "https://2024.hackrpi.com"
   }
