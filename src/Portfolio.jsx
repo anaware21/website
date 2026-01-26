@@ -205,7 +205,7 @@ function ContactSection() {
   return (
     <section id="contact" ref={contactRef} className="min-h-screen flex items-center justify-center bg-zinc-950 relative overflow-hidden">
       <div className="absolute inset-0">
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-gradient-to-r from-green-600/20 to-emerald-600/20 rounded-full blur-3xl" />
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-gradient-to-r from-blue-600/20 to-indigo-600/20 rounded-full blur-3xl" />
       </div>
       
       <div 
