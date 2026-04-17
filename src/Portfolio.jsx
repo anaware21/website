@@ -267,7 +267,7 @@ export default function Portfolio() {
             <a href="#contact" className="text-sm text-white hover:opacity-70 transition-opacity">
               Contact
             </a>
-            <a href="https://drive.google.com/file/d/1Xwm1BxEBXCbUK5q3UHz2t70jrKczDgvz/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="text-sm text-white hover:opacity-70 transition-opacity">
+            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="text-sm text-white hover:opacity-70 transition-opacity">
               Resume
             </a>
           </div>
